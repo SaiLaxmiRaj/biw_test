@@ -1,0 +1,4 @@
+com\nopcommerce\demo\steps\LoginSteps.class
+com\nopcommerce\demo\steps\Hooks.class
+MyStepdefs.class
+com\nopcommerce\demo\runner\RunCuke.class

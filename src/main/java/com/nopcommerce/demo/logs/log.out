@@ -1,0 +1,46 @@
+2023-12-04 21:12:712 INFO  HomePage :59 - Clicking on register link : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> link text: Register]
+2023-12-04 21:12:754 INFO  RegisterPage :76 - Get registerText : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> css selector: div[class='page-title'] h1]<br>
+2023-12-04 21:12:834 INFO  RegisterPage :81 - Enter Firstname : '' to firstName field<br>
+2023-12-04 21:12:900 INFO  RegisterPage :86 - Enter Lastname : '' to lastName field<br>
+2023-12-04 21:12:115 INFO  RegisterPage :94 - Select day : '1', month : 'March', year : '2014'<br>
+2023-12-04 21:12:188 INFO  RegisterPage :100 - Enter Email : '' to email field<br>
+2023-12-04 21:12:238 INFO  RegisterPage :106 - Enter Password : '' to password field<br>
+2023-12-04 21:12:292 INFO  RegisterPage :112 - Enter Confirm password : 'Xaybzc.' to confirm password field<br>
+2023-12-04 21:12:294 INFO  RegisterPage :117 - Click on 'REGISTER' button<br>
+2023-12-04 21:12:830 INFO  RegisterPage :76 - Get registerText : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> css selector: div[class='page-title'] h1]<br>
+2023-12-04 21:12:834 INFO  RegisterPage :123 - Click on 'CONTINUE' button<br>
+2023-12-04 21:12:187 INFO  HomePage :63 - Clicking on ComputersMenu [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> link text: Computers]
+2023-12-04 21:12:551 INFO  ComputerPage :29 - Get computerText : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //h1[contains(text(),'Computers')]]<br>
+2023-12-04 21:12:568 INFO  HomePage :68 - Clicking on DesktopsSubMenu[[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> link text: Desktops]
+2023-12-04 21:12:916 INFO  DesktopPage :29 - Get DesktopText : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //h1[contains(text(),'Desktops')]]<br>
+2023-12-04 21:12:382 INFO  DigitalStromPage :38 - Clicking on Digital Storm VANQUISH 3 Custom Performance PC : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> link text: Digital Storm VANQUISH 3 Custom Performance PC]<br>
+2023-12-04 21:12:408 INFO  DigitalStromPage :46 - Get Digital Storm VANQUISH 3 Custom Performance PC : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> tag name: h1]<br>
+2023-12-04 21:12:445 INFO  DigitalStromPage :51 - Clicking on Add to cart Product : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> css selector: #add-to-cart-button-2]<br>
+2023-12-04 21:12:76 INFO  DigitalStromPage :57 - Clicking on Shopping cart link : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //a[contains(text(),'shopping cart')]]<br>
+2023-12-04 21:12:105 INFO  ShoppingCartPage :41 - Get Shopping cart Text : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //h1[contains(text(),'Shopping cart')]]<br>
+2023-12-04 21:12:155 INFO  ShoppingCartPage :46 - Clicking on agree button box : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //input[@id='termsofservice']]<br>
+2023-12-04 21:12:705 INFO  ShoppingCartPage :51 - Clicking on Checkout : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //button[@id='checkout']]<br>
+2023-12-04 21:12:728 INFO  ShoppingCartPage :59 - GetCheckout Page Text Welcome, Please Sign In!: [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]<br>
+2023-12-04 21:12:806 INFO  LoginPage :49 - Enter email dfxbgfg@fty.com to email field <br>
+2023-12-04 21:12:869 INFO  LoginPage :55 - Enter password Xaybzc. to password field <br>
+2023-12-04 21:12:422 INFO  LoginPage :61 - Clicking on Login Button<br>
+2023-12-04 21:12:447 INFO  ShoppingCartPage :41 - Get Shopping cart Text : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //h1[contains(text(),'Shopping cart')]]<br>
+2023-12-04 21:12:486 INFO  ShoppingCartPage :46 - Clicking on agree button box : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //input[@id='termsofservice']]<br>
+2023-12-04 21:12:251 INFO  ShoppingCartPage :51 - Clicking on Checkout : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //button[@id='checkout']]<br>
+2023-12-04 21:12:281 INFO  CheckOutPage :135 - Get CheckoutText : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //h1[contains(text(),'Checkout')]]<br>
+2023-12-04 21:12:323 INFO  CheckOutPage :115 - Clicking on Continue Button : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //button[@onclick='Billing.save()']]<br>
+2023-12-04 21:12:592 INFO  CheckOutPage :176 - Click Ground Shipping service : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> css selector: li[id='opc-shipping_method'] li:nth-child(1) div:nth-child(2)]
+2023-12-04 21:12:663 INFO  CheckOutPage :121 - Clicking on Continue Button : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //button[@class='button-1 shipping-method-next-step-button']]<br>
+2023-12-04 21:12:976 INFO  CheckOutPage :181 - Click on credit card payment option: [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //input[@id='paymentmethod_1']]
+2023-12-04 21:12:50 INFO  CheckOutPage :186 - Click on continue button : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //button[@class='button-1 payment-method-next-step-button']]
+2023-12-04 21:12:309 INFO  CheckOutPage :191 - Enter credit card holder name : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //input[@id='CardholderName']]
+2023-12-04 21:12:378 INFO  CheckOutPage :197 - Enter credit card number : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //input[@id='CardNumber']]
+2023-12-04 21:12:449 INFO  CheckOutPage :202 - Enter expiry month : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //select[@id='ExpireMonth']]
+2023-12-04 21:12:514 INFO  CheckOutPage :204 - Enter expiry year : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //select[@id='ExpireYear']]
+2023-12-04 21:12:592 INFO  CheckOutPage :210 - Enter credit card code : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //input[@id='CardCode']]
+2023-12-04 21:12:652 INFO  CheckOutPage :235 - Click on Payment confirm button : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //button[@class='button-1 payment-info-next-step-button']]
+2023-12-04 21:12:904 INFO  CheckOutPage :215 - Verify payment type : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //span[normalize-space()='Credit Card']]
+2023-12-04 21:12:930 INFO  CheckOutPage :230 - Click on confirm button : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //button[normalize-space()='Confirm']]
+2023-12-04 21:12:596 INFO  HomePage :82 - Verify Thank you message : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //h1[normalize-space()='Thank you']]
+2023-12-04 21:12:639 INFO  HomePage :88 - Verify successful message : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> xpath: //strong[normalize-space()='Your order has been successfully processed!']]
+2023-12-04 21:12:973 INFO  CheckOutPage :127 - Clicking on confirm Order Button : [[ChromeDriver: chrome on windows (79f98a626782ee77f7838a7e99b4df98)] -> css selector: .section.order-completed]<br>
